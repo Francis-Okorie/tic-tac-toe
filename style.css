@@ -67,3 +67,12 @@ body{
     background-color: red;
     margin-top: -13%;
 }
+
+.reset-game {
+    padding: .5rem 2rem;
+    background-color: rgb(255, 140, 0);
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-family: "Work Sans", serif;
+}
